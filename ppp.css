@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ff9797;
+  padding: 20px;
+}
+
+.birthday-message {
+  background-color: #000000;
+  padding: 20px;
+  border: 1px solid #8f1111;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.birthday-message h2 {
+  font-size: 30px;
+  margin-top: 0;
+}
+
+.birthday-message p {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
